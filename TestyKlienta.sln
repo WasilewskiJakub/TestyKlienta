@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestyKlienta", "TestyKlienta\TestyKlienta.vcxproj", "{77B7A5E9-1F20-42D8-994F-0D4118B5BD4A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Determinism", "Determinism\Determinism.vcxproj", "{713BC591-3B25-4CF5-8C24-658D7A40B510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{77B7A5E9-1F20-42D8-994F-0D4118B5BD4A}.Release|x64.Build.0 = Release|x64
 		{77B7A5E9-1F20-42D8-994F-0D4118B5BD4A}.Release|x86.ActiveCfg = Release|Win32
 		{77B7A5E9-1F20-42D8-994F-0D4118B5BD4A}.Release|x86.Build.0 = Release|Win32
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Debug|x64.ActiveCfg = Debug|x64
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Debug|x64.Build.0 = Debug|x64
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Debug|x86.ActiveCfg = Debug|Win32
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Debug|x86.Build.0 = Debug|Win32
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Release|x64.ActiveCfg = Release|x64
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Release|x64.Build.0 = Release|x64
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Release|x86.ActiveCfg = Release|Win32
+		{713BC591-3B25-4CF5-8C24-658D7A40B510}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
